@@ -1,5 +1,5 @@
 # Numpy-Data-Analytics
-## 🍷 Wine Quality Data Analytics using NumPy
+# 🍷 Wine Quality Data Analytics using NumPy
 
 ## 📌 Project Overview
 
